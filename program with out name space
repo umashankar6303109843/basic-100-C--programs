@@ -1,0 +1,8 @@
+#include <iostream>
+#include <string>
+
+int main() {
+  std::string spandana; = "be happy";
+  std::cout << spandana; 
+  return 0;
+}
