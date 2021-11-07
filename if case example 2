@@ -1,0 +1,11 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+  int u = 20;
+  int s = 18;
+  if (u > s) {
+    cout << "u is greater than s";
+  }  
+  return 0;
+}
